@@ -1,0 +1,16 @@
+.example-card {
+    max-width: 400px;
+    margin: 30px;
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+    background-color: #ff4e00;
+background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+box-shadow: 5px 4px 2px whitesmoke;
+  }
+  
+  .example-header-image {
+    background-image: url('http://localhost:8090/building.png');
+    background-size: cover;
+    
+  }

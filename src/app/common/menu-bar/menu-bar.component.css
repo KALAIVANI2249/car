@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;
+    animation: header 2s ease-in-out;
+}
+
+@keyframes header{
+    0%{
+        transform: translateY(-100%);
+    }
+
+h1{
+    padding: top 40px;
+}   
+}
+#menu li{
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: 700;
+    cursor: pointer;
+    animation: nav 20s ease-in-out;
+    text-decoration: none;
+    color: blue;
+}
+
+@keyframes nav{
+    0%{
+        color: rgb(47, 0, 255);
+    }
+    25%{
+        color: rgb(252, 74, 9);
+    }
+    50%{
+        color: rgb(240, 36, 196);
+    }
+    100%{
+        color: rgb(127, 255, 0);
+    }
+}

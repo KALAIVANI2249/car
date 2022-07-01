@@ -1,0 +1,74 @@
+#content{
+    width: 50%;
+    margin-top: 8%;
+    color: white;
+    margin-left: 5%;
+    animation: content 2s ease-in-out;
+}
+
+@keyframes content{
+    0%{
+        transform: translateX(-100%);
+    }
+}
+
+
+
+.content h1{
+    font-size: 80px;
+    color: gold;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    letter-spacing: 8px;
+
+    margin-left: 50px;
+}
+
+.content h3{
+    font-size: 50px;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(243, 214, 214);
+    margin-bottom: 50px;
+    
+}
+
+span{
+    color: crimson;
+
+}
+
+.content p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+button{
+    padding: 15px 30px;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    border-radius: 10px;
+    border: 1px solid rgb(148, 44, 44);
+}
+
+button:hover{
+    background-color: rgb(135, 238, 32);
+}
+
+.image{
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 3%;
+
+}
+
+img{
+    width: 40rem;
+}
+p{
+    color: azure;
+    margin-left: 40px;
+}
+

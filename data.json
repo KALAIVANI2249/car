@@ -1,0 +1,31 @@
+{
+
+  "contacts": [
+    {
+      "title": "BLACK",
+      "address": "BMW India Sales 2021 ",
+
+      "building": "PHEONIX IT Park , Adyar",
+      "city": "$25000",
+      "photo": "download.jpg"
+    },
+    {
+      "title": "BLUE",
+      "address": "BMW BLUE COLOR",
+      "building": "$35000",
+      "city": "AMERICA",
+      "photo": "BLUE.jpg"
+    },
+    {
+      "title": "Center",
+      "address": "Diferent types",
+      "building": "real world",
+      "city": "$580004",
+      "photo": "COLOR.jpg"
+    }
+  ],
+  "services": [
+    {
+      "image":"redcar.jpg"
+    }
+  ]}

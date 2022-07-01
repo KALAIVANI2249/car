@@ -1,0 +1,15 @@
+#box
+{
+    margin:20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px gray;
+    float: left;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+#box img{
+    height: 100%;
+    width: 100%;
+}

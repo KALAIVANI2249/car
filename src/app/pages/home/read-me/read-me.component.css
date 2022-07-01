@@ -1,0 +1,29 @@
+.read{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 20%;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 900PX;
+
+}
+.read button{
+    background-color: #a40606;
+background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+    animation: h1 20s ease-in-out;
+}
+
+@keyframes h1{
+    10%{
+        color: rgb(51, 10, 233);
+    }
+    25%{
+        color: rgb(9, 252, 199);
+    }
+    50%{
+        color: rgb(240, 36, 196);
+    }
+    100%{
+        color: rgb(127, 255, 0);
+    }
+}
